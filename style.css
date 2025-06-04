@@ -2,6 +2,10 @@
 
 .product-card {
     /* Centrer la carte, largeur 300px, bordure grise, coins arrondis, padding 20px */
+    align-items: center;
+    border-color: gray;
+    border-radius: 2%;
+    padding: 20px;
 }
 
 .product-card img {
